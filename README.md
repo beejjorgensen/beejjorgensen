@@ -4,4 +4,4 @@ Hi there! I'm a general enthusiast of computing! I write books and blogs and I t
 * [Blog](http://beej.us/blog/)
 * [LinkedIn](https://www.linkedin.com/in/brianhall/)
 
-:motorcycle: :computer: :space_invader: :goat:
+:motorcycle: :hiking_boot: :computer: :space_invader: :skull_and_crossbones: :drum: :musical_keyboard: :guitar: :goat:
